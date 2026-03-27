@@ -6,4 +6,4 @@ venv/
 *.csv
 logs/
 saved_models/
-data/ 
+data/
